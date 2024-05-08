@@ -1,7 +1,7 @@
 ---
 title: Creating your own Quartz components
 ---
-
+	
 > [!warning]
 > This guide assumes you have experience writing JavaScript and are familiar with TypeScript.
 
