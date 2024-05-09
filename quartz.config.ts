@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: " 西郊有密林，助君出重围。",
+    pageTitle: "✒ 西郊有密林，助君出重围。",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
